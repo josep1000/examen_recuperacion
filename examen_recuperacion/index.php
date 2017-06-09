@@ -15,6 +15,8 @@ and open the template in the editor.
             <input type="text" name="login"></input>
              <label>Password</label>
              <input type="password" name="password"></input>
+             <label>Edad</label>
+             <input type="text" name="edad"></input>
              <button type="submit">Enviar</button>
         </form>
     </body>
