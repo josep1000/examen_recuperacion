@@ -7,5 +7,5 @@
  */
 
 if(isset($_GET['login']) && isset($_GET['password'])){
-    echo 'login: ' .$_GET['login']. ' password: ' . $_GET['password'] ;
+    echo 'login: ' .$_GET['login']. ' password: ' . $_GET['password']. ' edad: ' . $_GET['edad'] ;
 }
